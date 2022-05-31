@@ -1,1 +1,11 @@
-# dust_region.exp-dust.crawel.py
+주제 : 지역별 미세먼지 수치의 비교와 정도 파악하기
+
+프로젝트 내용 :
+
+네이버 미세먼지 사이트에서 실시간 지역별 미세먼지 수치를 크롤링하여 크롤링한 지역을 입력하면 해당지역의 미세먼지 수치와 정도를 나타낼 수 있다.
+
+202255171이태균 : 네이버 미세먼지 사이트에서 실시간 지역별 미세먼지 수치를 크롤링하여 지역별 미세먼지 수치를 비교하는 역할을 함.
+
+202255105김건우 : 이태균이 크롤링한 지역별 미세먼지 수치를 이용해 지역을 입력하면 해당지역의 미세먼지 수치와 정도를 나타내는 역할을 함.
+
+크롤링할 사이트 url : https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80&oquery=%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80+%EC%88%98%EC%B9%98+%ED%81%AC%EB%A1%A4%EB%A7%81&tqi=h5nGWwp0J1ZssEm7srNssssss3w-357383
